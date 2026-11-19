@@ -29,6 +29,6 @@ Usuário de acesso o trivial: saas
 
 Senha a mesma
 
-Essa VM pode ser transferida para a AWS ...
+Essa VM pode ser transferida para a AWS, ali no S3 e em seguida EC2.
 
 **Consequences:** Em geral aluno é quem observa aqui...
